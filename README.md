@@ -1,2 +1,2 @@
 # Deci
-first data analysis project "deci l3"
+first data analysis project "deci l3 "
