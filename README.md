@@ -1,2 +1,2 @@
-# tmdb movies
+# readme
 first data analysis project
