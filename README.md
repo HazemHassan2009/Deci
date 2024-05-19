@@ -1,2 +1,2 @@
-# Deci
-first data analysis project "deci l3 "
+# tmdb movies
+first data analysis project
